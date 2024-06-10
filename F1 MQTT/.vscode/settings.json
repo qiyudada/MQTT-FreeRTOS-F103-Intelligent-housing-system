@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mqtt_defconfig.h": "c",
+        "main.h": "c",
+        "ring_buffer.h": "c"
+    }
+}

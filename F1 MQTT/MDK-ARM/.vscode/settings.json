@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "atcommand.h": "c",
+        "uart3_irq.h": "c",
+        "mqtt_defconfig.h": "c",
+        "freertos.h": "c",
+        "freertosconfig.h": "c",
+        "ring_buffer.h": "c"
+    }
+}
