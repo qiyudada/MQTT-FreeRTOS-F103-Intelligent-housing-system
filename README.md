@@ -1,2 +1,2 @@
 # MQTT FreeRTos F103 Intelligent housing system
- a simple design of smart house
+ This is a template of STM32F103C8T6,not yet add the hardware
